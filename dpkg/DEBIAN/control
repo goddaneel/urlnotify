@@ -6,5 +6,5 @@ Depends: libnotify-bin,
     wl-clipboard,
     coreutils
 Maintainer: goddaneel <goddaneel@gmail.com>
-Description:
+Description: Block unauthorized URL requests and display a notification prompting for action.
 
