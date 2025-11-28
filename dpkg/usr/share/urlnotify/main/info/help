@@ -12,7 +12,7 @@
             （"/usr/share/urlnotify/main/info/version"）
 
     url
-        处理目标 URL。
+        处理（复制）目标 URL。
 
 
 项目信息：
