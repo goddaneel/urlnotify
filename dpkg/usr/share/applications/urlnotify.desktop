@@ -2,8 +2,9 @@
 Type=Application
 Name=URLnotify
 Icon=urlnotify
-Exec="/usr/bin/urlnotify" url %u
+Exec=urlnotify url %u
 StartupNotify=true
 StartupWMClass=urlnotify
 MimeType=x-scheme-handler/http;x-scheme-handler/https;
-Categories=Utility;Network;
+Categories=Utility;
+
